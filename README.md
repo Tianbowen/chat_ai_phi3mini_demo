@@ -82,7 +82,7 @@ namespace chat_ai_ph3imini_demo
 - Retrieves a prompt from the user and stores it in the `ChatHistory`.
 - Sends the chat data to the AI model to generate a response.
 
-![char_ai_demo](\img\chat_ai_demo.png)
+![char_ai_demo](/img/chat_ai_demo.png)
 
 
 
