@@ -1,6 +1,32 @@
 # chat_ai_phi3mini_demo
 Based on the phi3:mini large model, run in Ollama and connect to chat with the AI.
 
+## Phi open models
+
+**Phi open models**是功能强大的小语言模型(SLMs)，具有开创性的低成本和低延迟。包含：Phi--3-version、Phi--3-medium、Phi--3-small、Phi--3-mini，具有可以运行在任何地方 CPUs and  GPUs;cloud and on device，快速推理与响应，长文本。
+
+### 不同版本有什么区别
+
+* Phi-1: For Python coding; 用于python编码
+
+* Phi-1.5: For reasoning and understanding; 用于推理和理解
+
+* Phi-2: For language comprehension; 用于语言理解
+
+* Phi-3: For language understanding and reasoning tasks; 用于语言理解和推理任务，在编码基准方面也表现良好
+
+### 可以用于生产环境吗？
+
+可以，从phi-3开始的所有模型都是为生产用例设计的。
+
+### 可以在那里获取Phi
+
+可以从 Azure AI Studio model catalog, Hugging Face, and Ollama.
+
+### Phi训练截至时间
+
+2023年10月
+
 ## Ollama
 
 [Ollama](https://ollama.com/)是启动并运行大型语言模型的工具，运行 Llama 3.2，Phi 3，Mistral，Gemma 2和其他模型，自定义并创建你自己的。
